@@ -11,7 +11,7 @@ public class KafkaConfig {
     public void updatedLocation(String value) {
 
 
-        System.out.println(value);
+        System.out.println( "-> "+value);
 
     }
 
